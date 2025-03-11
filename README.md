@@ -20,3 +20,7 @@
 ### [python 基本语法 数据结构](pythonsty\basic.ipynb)
 
 python 基本语法 数据结构
+
+### [调教数据](pythonsty\pic.ipynb)
+
+numpy pandas 基础用法
